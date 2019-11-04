@@ -1,0 +1,28 @@
+.counter{
+    width: 80%;
+    margin: 1em auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter img{
+    width: 250px;
+    margin: 1em;
+}
+
+.counter_d{
+    color: #fff;
+    padding: 1em;
+    background-color: #1D252F;
+}
+
+.d_down{
+    display: flex;
+    flex-direction: row;
+}
+
+.d_down div{
+    margin: 0 1em;
+}
+
